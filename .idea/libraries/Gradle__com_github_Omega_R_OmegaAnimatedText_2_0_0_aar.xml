@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Omega-R:OmegaAnimatedText:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/57305fc47a333ef4e4795712d0fceb4e/jetified-OmegaAnimatedText-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/57305fc47a333ef4e4795712d0fceb4e/jetified-OmegaAnimatedText-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/57305fc47a333ef4e4795712d0fceb4e/jetified-OmegaAnimatedText-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Omega-R/OmegaAnimatedText/2.0.0/f0ac5067a1580f432dab1da269a565c49903ef82/OmegaAnimatedText-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
