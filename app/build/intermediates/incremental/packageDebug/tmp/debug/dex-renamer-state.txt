@@ -1,0 +1,4 @@
+#Fri Oct 02 13:27:02 IST 2020
+base.0=C\:\\Users\\flash\\Desktop\\hacktoberfest\\covid-tracker-android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
